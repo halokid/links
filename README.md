@@ -19,6 +19,11 @@ The Verge | http://www.theverge.com | 科技测评资讯
 V2EX | http://v2ex.com | 闲聊
 Stack Overflow | http://stackoverflow.com | IT问答社区
 segmentfault | https://segmentfault.com | 中文问答社区
+CSDN | http://www.csdn.net | 老牌不解释
+博客园 | http://www.cnblogs.com | 老牌不解释
+博客园 | http://www.cnblogs.com | 老牌不解释
+开源中国 | http://www.oschina.net |老牌不解释
+51CTO | http://www.51cto.com | 老牌不解释
 
 
 ## Github 相关
