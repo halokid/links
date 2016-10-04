@@ -5,7 +5,7 @@
 标题 | 网址 | 作用
 -----|------|----
 Engadget | http://www.engadget.com | 瘾科技
-Hacker News	 | http://news.ycombinator.com | 老牌内网站
+Hacker News	 | http://news.ycombinator.com | 炒鸡老牌的网站
 Reddit | https://www.reddit.com | 西方科技社区
 Cnbeta | https://www.cnbeta.com | cnbeta老牌业界资讯
 爱饭儿 | http://www.ifanr.com | 有趣独到
@@ -16,11 +16,11 @@ The Verge | http://www.theverge.com | 科技测评资讯
 
 标题 | 网址 | 作用
 -----|------|----
+sourceforge|https://sourceforge.net/ | 不解释
 V2EX | http://v2ex.com | 闲聊
 Stack Overflow | http://stackoverflow.com | IT问答社区
 segmentfault | https://segmentfault.com | 中文问答社区
 CSDN | http://www.csdn.net | 老牌不解释
-博客园 | http://www.cnblogs.com | 老牌不解释
 博客园 | http://www.cnblogs.com | 老牌不解释
 开源中国 | http://www.oschina.net |老牌不解释
 51CTO | http://www.51cto.com | 老牌不解释
